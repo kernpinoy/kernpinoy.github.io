@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://kernpinoy.github.io/</loc>
+    <lastmod>2023-06-17T23:49:43+08:00</lastmod>
+  </url><url>
     <loc>http://kernpinoy.github.io/categories/</loc>
     <lastmod>2023-06-17T23:49:43+08:00</lastmod>
   </url><url>
     <loc>http://kernpinoy.github.io/tags/friendship/</loc>
     <lastmod>2023-06-17T23:49:43+08:00</lastmod>
   </url><url>
-    <loc>http://kernpinoy.github.io/</loc>
-    <lastmod>2023-06-17T23:49:43+08:00</lastmod>
-  </url><url>
-    <loc>http://kernpinoy.github.io/post/on_birthdays_and_stuffs/</loc>
+    <loc>http://kernpinoy.github.io/p/on-birthdays-and-stuffs.../</loc>
     <lastmod>2023-06-17T23:49:43+08:00</lastmod>
   </url><url>
     <loc>http://kernpinoy.github.io/post/</loc>
@@ -26,7 +26,13 @@
     <loc>http://kernpinoy.github.io/tags/</loc>
     <lastmod>2023-06-17T23:49:43+08:00</lastmod>
   </url><url>
-    <loc>http://kernpinoy.github.io/post/what-am-i-doing-wrong/</loc>
+    <loc>http://kernpinoy.github.io/p/what-am-i-doing-wrong/</loc>
     <lastmod>2023-06-03T01:11:46+08:00</lastmod>
+  </url><url>
+    <loc>http://kernpinoy.github.io/archives/</loc>
+  </url><url>
+    <loc>http://kernpinoy.github.io/page/</loc>
+  </url><url>
+    <loc>http://kernpinoy.github.io/search/</loc>
   </url>
 </urlset>
