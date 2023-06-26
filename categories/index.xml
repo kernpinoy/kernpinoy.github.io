@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Kern Paulo Jacobo</title>
-        <link>http://kernpinoy.github.io/categories/</link>
+        <link>https://kernpinoy.github.io/categories/</link>
         <description>Recent content in Categories on Kern Paulo Jacobo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 17 Jun 2023 23:49:43 +0800</lastBuildDate><atom:link href="http://kernpinoy.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 Jun 2023 23:49:43 +0800</lastBuildDate><atom:link href="https://kernpinoy.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rants</title>
-        <link>http://kernpinoy.github.io/categories/rants/</link>
+        <link>https://kernpinoy.github.io/categories/rants/</link>
         <pubDate>Sat, 17 Jun 2023 23:49:43 +0800</pubDate>
         
-        <guid>http://kernpinoy.github.io/categories/rants/</guid>
-        <description>&lt;img src="http://kernpinoy.github.io/categories/rants/pexels-nathan-cowley-897817.jpg" alt="Featured image of post Rants" /&gt;</description>
+        <guid>https://kernpinoy.github.io/categories/rants/</guid>
+        <description>&lt;img src="https://kernpinoy.github.io/categories/rants/pexels-nathan-cowley-897817.jpg" alt="Featured image of post Rants" /&gt;</description>
         </item>
         
     </channel>
